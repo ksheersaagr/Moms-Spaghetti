@@ -20,7 +20,7 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
-[ https://arxiv.org/pdf/1606.01164.pdf ] - My research interest will be on the updated part of this research which is, An Associative learning task where the optimal action is determined by the posture of a person in an image/video/live cameras.
+[ https://arxiv.org/pdf/1606.01164.pdf ]
 
 - Self-Supervised Learning of Pretext-Invariant Representations. [ https://arxiv.org/abs/1912.01991 ].
 
