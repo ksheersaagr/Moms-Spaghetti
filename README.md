@@ -15,6 +15,8 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras [ https://arxiv.org/pdf/1904.04998.pdf ]
 
+- https://www.kudan.io/post/different-types-of-visual-slam-systems
+
 
 ## 2. Computer Vision:
 
