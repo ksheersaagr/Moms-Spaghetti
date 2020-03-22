@@ -15,10 +15,9 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras [ https://arxiv.org/pdf/1904.04998.pdf ]
 
-- https://www.kudan.io/post/different-types-of-visual-slam-systems
+- Types of Visual SLAM [https://www.kudan.io/post/different-types-of-visual-slam-systems]
 
-- https://medium.com/analytics-vidhya/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf
-
+- Introduction to Oriented FAST & Rotated BRIEF [https://medium.com/analytics-vidhya/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf]
 
 ## 2. Computer Vision:
 
