@@ -17,6 +17,8 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - https://www.kudan.io/post/different-types-of-visual-slam-systems
 
+- https://medium.com/analytics-vidhya/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf
+
 
 ## 2. Computer Vision:
 
