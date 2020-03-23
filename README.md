@@ -19,7 +19,7 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Introduction to Oriented FAST & Rotated BRIEF [https://medium.com/analytics-vidhya/introduction-to-orb-oriented-fast-and-rotated-brief-4220e8ec40cf]
 
-- William Hoof's Computer Vision lecture Playlist [ https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3&index=1 ]
+- William Hoff's Computer Vision lecture Playlist [ https://www.youtube.com/watch?v=skaQfPQFSyY&list=PL4B3F8D4A5CAD8DA3&index=1 ]
 
 - Fundamental Matrix Implementation [ https://scikit-image.org/docs/dev/auto_examples/transform/plot_fundamental_matrix.html ]
 
