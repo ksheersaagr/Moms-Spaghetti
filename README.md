@@ -23,6 +23,8 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Fundamental Matrix Implementation [ https://scikit-image.org/docs/dev/auto_examples/transform/plot_fundamental_matrix.html ]
 
+- Graph Based SLAM Research Paper [http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf]
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
