@@ -25,6 +25,15 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Graph Based SLAM Research Paper [http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf]
 
+AI progress measurements, 2017, Electronic Frontier Foundation [LINK]
+Inspiration and started code was provided by Jonathan Mitchell
+Non-Local Total Generalized Variation for Optical Flow Estimation, ECCV 2014 [PDF] R. Ranftl, K. Bredies and T. Pock
+Large displacement optical flow: Descriptor matching in variational motion estimation, PAMI 2011 [PDF] T. Brox and J. Malik
+FlowNet: Learning Optical Flow with Convolutional Networks, ICCV 2015 [PDF] A. Dosovitskiy, P. Fischer, E. Ilg, P. Häusser, C. Hazırbaş, V. Golkov, P. Smagt, D. Cremers,T. Brox
+A Quantitative Analysis of Current Practices in Optical Flow Estimation and The Principles Behind Them, IJCV 2011 [PDF] D. Sun, S. Roth and M. Black
+Car speed estimation from a windshield camera [LINK] N. Viligi.
+End to End Learning for Self-Driving Cars, NVIDIA 2016, [PDF] M. Bojarski et al.
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
