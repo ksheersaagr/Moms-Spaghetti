@@ -1,6 +1,6 @@
 # Moms-Spaghetti
 
-## 1. Simultaneous Localization & Mapping (SLAM) & Computer Vision for Autonomous Vehicles :
+## 1. For the love of Self Driving Cars & Autonomous Vehicles :
 
 - Past, Present, and Future of Simultaneous
 Localization and Mapping: Toward the
