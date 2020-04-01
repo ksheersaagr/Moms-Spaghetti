@@ -37,7 +37,13 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Raquel Urtasun's autonomous driving car's perception lectures [ http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html ]
 
+- MIT deep learning self driving cars [ https://deeplearning.mit.edu/ ]
 
+- comma.ai/research [ https://github.com/commaai/research ]
+
+- All about self driving cars [ https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-autonomous-driving.md ]
+
+- All about AI [ https://github.com/handong1587/handong1587.github.io/tree/master/_posts ]
 
 ## 2. Computer Vision:
 
