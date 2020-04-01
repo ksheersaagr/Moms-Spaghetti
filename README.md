@@ -56,6 +56,8 @@ Localization, and Obstacle Detection [ https://arxiv.org/pdf/1708.09839.pdf ]
 - Visual SLAM for Automated Driving:
 Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Milz_Visual_SLAM_for_CVPR_2018_paper.pdf ]
 
+- Awesome Autonomous Vewhicles [ https://github.com/DeepTecher/awesome-autonomous-vehicle/blob/master/README.md#%E7%A0%94%E7%A9%B6%E5%AE%9E%E9%AA%8C%E5%AE%A4 ]
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
