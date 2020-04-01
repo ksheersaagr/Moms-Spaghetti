@@ -45,6 +45,10 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - All about AI [ https://github.com/handong1587/handong1587.github.io/tree/master/_posts ]
 
+- Awesome autonomous driving [ https://github.com/manfreddiaz/awesome-autonomous-vehicles ]
+
+- Awesome autonomous driving clone [ https://zhuanlan.zhihu.com/p/27686577 ]
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
