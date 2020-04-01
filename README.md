@@ -49,6 +49,10 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
 - Awesome autonomous driving clone [ https://zhuanlan.zhihu.com/p/27686577 ]
 
+- 3D Visual Perception for Self-Driving Cars using a
+Multi-Camera System: Calibration, Mapping,
+Localization, and Obstacle Detection [ https://arxiv.org/pdf/1708.09839.pdf ]
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
