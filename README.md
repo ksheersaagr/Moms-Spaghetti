@@ -53,6 +53,9 @@ Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 Multi-Camera System: Calibration, Mapping,
 Localization, and Obstacle Detection [ https://arxiv.org/pdf/1708.09839.pdf ]
 
+- Visual SLAM for Automated Driving:
+Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/Milz_Visual_SLAM_for_CVPR_2018_paper.pdf ]
+
 ## 2. Computer Vision:
 
 - Dense Associative Memory for Pattern Recognition. 
