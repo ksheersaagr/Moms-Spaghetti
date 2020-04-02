@@ -60,6 +60,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Deeper Direct Perception in Autonomous Driving [ http://cs231n.stanford.edu/reports/2016/pdfs/123_Report.pdf ]
 
+- Oxford University Chris Linegar Thesis supervised by prof. Paul Newman [ http://www.robots.ox.ac.uk/~mobile/Theses/linegar_thesis_2016.pdf ]
+
 
 ## 2. Computer Vision:
 
