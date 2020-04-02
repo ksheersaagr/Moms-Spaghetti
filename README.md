@@ -62,6 +62,23 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Oxford University Chris Linegar Thesis supervised by prof. Paul Newman [ http://www.robots.ox.ac.uk/~mobile/Theses/linegar_thesis_2016.pdf ]
 
+- Realtime 3D Object Detection for Automated Driving Using Stereo Vision and Semantic Information [ https://www.mrt.kit.edu/z/publ/download/2019/Koenigshof2019Objects.pdf ]
+
+
+### - Pose Estimation:
+
+- CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
+
+- Real-time 3D Pose Estimation with a Monocular Camera Using Deep Learning and Object Priors Thesis by Ankit Dhall [ https://arxiv.org/pdf/1809.10548.pdf ]
+
+- RECOVERING THE 3D POSE AND SHAPE OF VEHICLES FROM STEREO IMAGES [ https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2/73/2018/isprs-annals-IV-2-73-2018.pdf ]
+
+- STEREO VISION-BASED 3D CAMERA POSE AND OBJECT STRUCTURE ESTIMATION [ http://rovislab.com/papers/Grigorescu_visapp.pdf ]
+
+- Visual-Inertial Odometry of Aerial Robots [ https://arxiv.org/pdf/1906.03289.pdf ]
+
+- Research on pose estimation for stereo vision measurement system by an improved method: uncertainty weighted stereopsis pose solution method based on projection vector [ https://www.osapublishing.org/DirectPDFAccess/4024C1D5-0CEF-AED2-0D013F1162DA9053_427466/oe-28-4-5470.pdf?da=1&id=427466&seq=0&mobile=no ]
+
 
 ## 2. Computer Vision:
 
