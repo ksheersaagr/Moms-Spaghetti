@@ -64,6 +64,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Realtime 3D Object Detection for Automated Driving Using Stereo Vision and Semantic Information [ https://www.mrt.kit.edu/z/publ/download/2019/Koenigshof2019Objects.pdf ]
 
+- LEARNING TO DRIVE: PERCEPTION FOR AUTONOMOUS CARS-David Stavens Phd Thesis [ https://www.cs.stanford.edu/people/dstavens/thesis/David_Stavens_PhD_Dissertation.pdf ]
 
 ### - Pose Estimation:
 
