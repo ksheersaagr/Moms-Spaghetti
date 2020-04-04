@@ -107,4 +107,6 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Contrastive Learning of Structured World Models. [ https://arxiv.org/pdf/1911.12247.pdf ]
 
+- Federated Transfer Reinforcement Learning for Autonomous Driving [ https://arxiv.org/pdf/1910.06001.pdf ]
+
 
