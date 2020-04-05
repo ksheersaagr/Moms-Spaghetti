@@ -68,7 +68,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Local Feature Matching visual object recognition [ http://www.micc.unifi.it/delbimbo/wp-content/uploads/2011/03/slide_corso/A53%20Geometric%20alignment%20and%20outlier%20rejection%20RANSAC.pdf ]
 
-- David Dye's MSE101 for fitting the gaussian and [ Non-linear Least Square Fitting ]
+- David Dye's MSE101 course for fitting the gaussian and Non-linear Least Square Fitting [ https://dyedavid.com/mse101/ ]
+
+- David Dye's MSE101 course playlist for fitting the gaussian and Non-linear Least Square Fitting [ https://www.youtube.com/watch?v=dgafxlyrFF8&list=PLRl6YIfL5k2WB5Hf4TjEK6oI7iGh1-CLH  ]
 
 ### - Pose Estimation:
 
