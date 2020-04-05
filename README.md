@@ -68,6 +68,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Local Feature Matching visual object recognition [ http://www.micc.unifi.it/delbimbo/wp-content/uploads/2011/03/slide_corso/A53%20Geometric%20alignment%20and%20outlier%20rejection%20RANSAC.pdf ]
 
+- David Dye's MSE101 for fitting the gaussian and [ Non-linear Least Square Fitting ]
+
 ### - Pose Estimation:
 
 - CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
