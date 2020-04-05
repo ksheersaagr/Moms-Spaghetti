@@ -72,6 +72,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - David Dye's MSE101 course playlist for fitting the gaussian and Non-linear Least Square Fitting [ https://www.youtube.com/watch?v=dgafxlyrFF8&list=PLRl6YIfL5k2WB5Hf4TjEK6oI7iGh1-CLH  ]
 
+- Large-Scale Object Mining for Object Discovery from Unlabeled Video [ https://arxiv.org/pdf/1903.00362.pdf ]
+
+
 ### - Pose Estimation:
 
 - CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
