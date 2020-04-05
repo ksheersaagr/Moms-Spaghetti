@@ -66,6 +66,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - LEARNING TO DRIVE: PERCEPTION FOR AUTONOMOUS CARS-David Stavens Phd Thesis [ https://www.cs.stanford.edu/people/dstavens/thesis/David_Stavens_PhD_Dissertation.pdf ]
 
+- Local Feature Matching visual object recognition [ http://www.micc.unifi.it/delbimbo/wp-content/uploads/2011/03/slide_corso/A53%20Geometric%20alignment%20and%20outlier%20rejection%20RANSAC.pdf ]
+
 ### - Pose Estimation:
 
 - CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
@@ -80,7 +82,6 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Research on pose estimation for stereo vision measurement system by an improved method: uncertainty weighted stereopsis pose solution method based on projection vector [ https://www.osapublishing.org/DirectPDFAccess/4024C1D5-0CEF-AED2-0D013F1162DA9053_427466/oe-28-4-5470.pdf?da=1&id=427466&seq=0&mobile=no ]
 
-- Local Feature Matching visual object recognition [ http://www.micc.unifi.it/delbimbo/wp-content/uploads/2011/03/slide_corso/A53%20Geometric%20alignment%20and%20outlier%20rejection%20RANSAC.pdf ]
 
 ## 2. Computer Vision:
 
