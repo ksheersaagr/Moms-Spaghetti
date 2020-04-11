@@ -74,6 +74,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Large-Scale Object Mining for Object Discovery from Unlabeled Video [ https://arxiv.org/pdf/1903.00362.pdf ]
 
+- MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task [ https://youtu.be/U1toUkZw6VI ]
+
 
 ### - Pose Estimation:
 
