@@ -78,7 +78,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving/ Andrej Karpathy & Tesla's Main Focus [ https://arxiv.org/pdf/1812.07179.pdf ]
 
-- End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection [ https://arxiv.org/pdf/2004.03080v1.pdf ]
+- End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection/ Andrej Karpathy & Tesla's Main Focus [ https://arxiv.org/pdf/2004.03080v1.pdf ]
 
 
 ### - Pose Estimation:
