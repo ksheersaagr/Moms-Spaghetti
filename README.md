@@ -76,6 +76,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task [ https://youtu.be/U1toUkZw6VI ]
 
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [ https://arxiv.org/pdf/1812.07179.pdf ]
+
 
 ### - Pose Estimation:
 
