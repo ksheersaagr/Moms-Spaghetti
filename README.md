@@ -11,9 +11,9 @@ Robust-Perception Age [ http://rpg.ifi.uzh.ch/docs/TRO16_cadena.pdf ]
 - A General Optimization-based Framework for Global
 Pose Estimation with Multiple Sensors [ https://arxiv.org/pdf/1901.03642.pdf ]
 
-- Unsupervised Learning of Depth and Ego-Motion from Video [ https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf ]
+- Unsupervised Learning of Depth and Ego-Motion from Video/ Andrej Karpathy & Tesla's Main Focus  [ https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf ]
 
-- Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras [ https://arxiv.org/pdf/1904.04998.pdf ]
+- Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras/ Andrej Karpathy & Tesla's Main Focus [ https://arxiv.org/pdf/1904.04998.pdf ]
 
 - Types of Visual SLAM [https://www.kudan.io/post/different-types-of-visual-slam-systems]
 
@@ -76,7 +76,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task [ https://youtu.be/U1toUkZw6VI ]
 
-- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving [ https://arxiv.org/pdf/1812.07179.pdf ]
+- Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving/ Andrej Karpathy & Tesla's Main Focus [ https://arxiv.org/pdf/1812.07179.pdf ]
 
 
 ### - Pose Estimation:
