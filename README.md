@@ -124,4 +124,9 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Federated Transfer Reinforcement Learning for Autonomous Driving [ https://arxiv.org/pdf/1910.06001.pdf ]
 
+## 4. End to End ML
+
+- brohrer's github [ https://e2eml.school/blog.html ]
+
+- brohrer's how cnn works [ http://brohrer.github.io/how_convolutional_neural_networks_work.html ]
 
