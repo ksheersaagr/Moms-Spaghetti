@@ -80,6 +80,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection/ Andrej Karpathy & Tesla's Main Focus [ https://arxiv.org/pdf/2004.03080v1.pdf ]
 
+- Computer Vision for Visual Effects (ECSE-6969) Lectures Spring 2014 Rich Radke's Playlist [ https://www.youtube.com/watch?v=rE-hVtytT-I&list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a ]
+
+- Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 Rich Radke's Playlist [ https://www.youtube.com/watch?v=UhDlL-tLT2U&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX ]
+
 
 ### - Pose Estimation:
 
