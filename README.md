@@ -84,6 +84,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Intro to Digital Image Processing (ECSE-4540) Lectures, Spring 2015 Rich Radke's Playlist [ https://www.youtube.com/watch?v=UhDlL-tLT2U&list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX ]
 
+- A2D2: Audi Autonomous Driving Dataset [ https://arxiv.org/pdf/2004.06320.pdf ]/ 2TB Dataset: [ https://www.a2d2.audi/a2d2/en/download.html ]
+
 
 ### - Pose Estimation:
 
@@ -112,6 +114,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - On the Relationship between Self-Attention and Convolutional Layers. [ https://openreview.net/attachment?id=HJlnC1rKPB&name=original_pdf ]
 
 - William Hoff's Image processing and signal processing lectures [  https://www.youtube.com/watch?v=rbY-JRQEDUU&list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv ]
+
+- An Efficient UAV(Unmanned Aerial Vehicle)-based Artificial Intelligence Framework for Real-Time Visual Tasks [ https://arxiv.org/pdf/2004.06154.pdf ]
+
+- SpaceNet 6: Multi-Sensor All Weather Mapping Dataset(Automate Satellite surveillance)/Synthetic Aperture Radar [ https://arxiv.org/pdf/2004.06500.pdf ]/ Dataset: [ https://spacenet.ai/sn6-challenge/ ]
 
 
 
