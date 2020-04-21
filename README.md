@@ -86,6 +86,12 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - A2D2: Audi Autonomous Driving Dataset [ https://arxiv.org/pdf/2004.06320.pdf ]/ 2TB Dataset: [ https://www.a2d2.audi/a2d2/en/download.html ]
 
+- RANSAC [ https://people.cs.umass.edu/~elm/Teaching/ppt/370/370_10_RANSAC.pptx.pdf ]
+[ http://www.cse.psu.edu/~rtc12/CSE486/lecture15.pdf ]
+[ micc.unifi.it/delbimbo/wp-content/uploads/2011/03/slide_corso/A53%20Geometric%20alignment%20and%20outlier%20rejection%20RANSAC.pdf ]
+[ https://www.cc.gatech.edu/~afb/classes/CS4495-Fall2014/slides/CS4495-Ransac.pdf ]
+
+- Epipolar Geometry [ https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/EPSRC_SSAZ/node18.html ]
 
 ### - Pose Estimation:
 
