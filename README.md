@@ -92,6 +92,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Epipolar Geometry [ https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/EPSRC_SSAZ/node18.html ]
 
+- Andrej Karpathy - AI for Full-Self Driving @ScaledML conference [ https://www.youtube.com/watch?v=hx7BXih7zx8&feature=youtu.be ]
+
 ### - Pose Estimation:
 
 - CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
