@@ -92,7 +92,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Epipolar Geometry [ https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/EPSRC_SSAZ/node18.html ]
 
-- Andrej Karpathy - AI for Full-Self Driving @ScaledML conference [ https://www.youtube.com/watch?v=hx7BXih7zx8&feature=youtu.be ]
+- Andrej Karpathy - AI for Full-Self Driving @ScaledML conference (Basically Screw LiDAR) [ https://www.youtube.com/watch?v=hx7BXih7zx8&feature=youtu.be ]
 
 ### - Pose Estimation:
 
