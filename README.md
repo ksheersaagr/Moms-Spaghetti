@@ -94,6 +94,11 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Andrej Karpathy - AI for Full-Self Driving @ScaledML conference (Basically Screw LiDAR) [ https://www.youtube.com/watch?v=hx7BXih7zx8&feature=youtu.be ]
 
+- LEARNING TO EXPLORE USING ACTIVE NEURAL SLAM  [ https://arxiv.org/pdf/2004.05155v1.pdf ]
+
+- SEMANTICALLY-GUIDED REPRESENTATION LEARNING FOR SELF-SUPERVISED MONOCULAR DEPTH [ https://arxiv.org/pdf/2002.12319v1.pdf ]
+
+
 ### - Pose Estimation:
 
 - CAMERA POSE ESTIMATION FROM A STEREO SETUP Thesis by sebastien Gilbert [ https://pdfs.semanticscholar.org/675a/75494f55b0ac6092f6beef6ac413c296faf4.pdf ] 
@@ -141,7 +146,17 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Federated Transfer Reinforcement Learning for Autonomous Driving [ https://arxiv.org/pdf/1910.06001.pdf ]
 
-## 4. End to End ML
+- GRAPH CONVOLUTIONAL REINFORCEMENT LEARNING [ https://arxiv.org/pdf/1810.09202v5.pdf ]
+
+- Behaviour Suite for Reinforcement Learning [ https://arxiv.org/pdf/1908.03568v3.pdf ]
+
+
+## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias
+
+- GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
+
+
+## 5. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
 
