@@ -94,6 +94,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Andrej Karpathy - AI for Full-Self Driving @ScaledML conference (Basically Screw LiDAR) [ https://www.youtube.com/watch?v=hx7BXih7zx8&feature=youtu.be ]
 
+- Medium Post by David Silver on Andrej Karpathy - AI for Full-Self Driving @ScaledML conference (Basically Screw LiDAR) [ https://medium.com/self-driving-cars/annotated-karpathys-autopilot-talk-3e6270a21f8d ]
+
 - LEARNING TO EXPLORE USING ACTIVE NEURAL SLAM  [ https://arxiv.org/pdf/2004.05155v1.pdf ]
 
 - SEMANTICALLY-GUIDED REPRESENTATION LEARNING FOR SELF-SUPERVISED MONOCULAR DEPTH [ https://arxiv.org/pdf/2002.12319v1.pdf ]
