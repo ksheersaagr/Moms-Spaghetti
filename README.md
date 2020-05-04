@@ -133,6 +133,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - SpaceNet 6: Multi-Sensor All Weather Mapping Dataset(Automate Satellite surveillance)/Synthetic Aperture Radar [ https://arxiv.org/pdf/2004.06500.pdf ]/ Dataset: [ https://spacenet.ai/sn6-challenge/ ]
 
+- YOLOv4: Optimal Speed and Accuracy of Object Detection [ https://arxiv.org/pdf/2004.10934.pdf ]
+
+- YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection [ https://github.com/AlexeyAB/darknet ]
 
 
 ## 3. Reinforcement Learning:
