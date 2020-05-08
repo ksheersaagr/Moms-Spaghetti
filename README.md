@@ -100,6 +100,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - SEMANTICALLY-GUIDED REPRESENTATION LEARNING FOR SELF-SUPERVISED MONOCULAR DEPTH [ https://arxiv.org/pdf/2002.12319v1.pdf ]
 
+- David Silver blog for autonomous vehicles dataset [ https://medium.com/self-driving-cars/autonomous-vehicle-datasets-2ec5cab58dc9 ]
+
 
 ### - Pose Estimation:
 
