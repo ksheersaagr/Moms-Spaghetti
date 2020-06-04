@@ -149,6 +149,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - U-Net: Convolutional Networks for Biomedical Image Segmentation [ https://arxiv.org/pdf/1505.04597.pdf ]
 
+- Mask R-CNN [ https://arxiv.org/pdf/1703.06870.pdf ]
+
+- Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [ https://arxiv.org/pdf/1506.01497.pdf ]
 
 
 ## 3. Reinforcement Learning:
