@@ -173,6 +173,10 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - brohrer's how cnn works [ http://brohrer.github.io/how_convolutional_neural_networks_work.html ]
 
+- Implementing Graph Neural Networks with JAX [ http://gcucurull.github.io/deep-learning/2020/04/20/jax-graph-neural-networks/ ]
+
+- GRAPH CONVOLUTIONAL NETWORKS [ https://tkipf.github.io/graph-convolutional-networks/ ]
+
 ## 6. The Million Dollar Question!
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
