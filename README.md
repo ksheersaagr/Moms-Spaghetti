@@ -141,6 +141,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Two-Stream Convolutional Networks for Action Recognition in Videos(SpatioTemporal learning) [ https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf ]
 
+- Spatio-temporal Texture Modelling for Real-time Crowd Anomaly Detection [ http://shura.shu.ac.uk/18876/3/Wang%20Spatio-temporal%20Texture%20Modelling%20for%20Real-time%20Crowd%20Anomaly%20Detection.pdf ]
+
 
 ## 3. Reinforcement Learning:
 
