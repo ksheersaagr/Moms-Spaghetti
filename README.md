@@ -176,6 +176,9 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
 
+- A Principled Approach to Learning Stochastic Representations for Privacy in Deep Neural Inference [ https://arxiv.org/pdf/2003.12154v1.pdf ]
+
+- SHREDDER: Learning Noise Distributions to Protect Inference Privacy [ https://arxiv.org/pdf/1905.11814.pdf ]
 
 ## 5. End to End ML
 
