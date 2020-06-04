@@ -147,7 +147,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [ https://arxiv.org/pdf/1606.04797.pdf ]
 
--U-Net: Convolutional Networks for Biomedical Image Segmentation [ https://arxiv.org/pdf/1505.04597.pdf ]
+- U-Net: Convolutional Networks for Biomedical Image Segmentation [ https://arxiv.org/pdf/1505.04597.pdf ]
 
 
 
