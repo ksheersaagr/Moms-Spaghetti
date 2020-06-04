@@ -143,6 +143,13 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Spatio-temporal Texture Modelling for Real-time Crowd Anomaly Detection [ http://shura.shu.ac.uk/18876/3/Wang%20Spatio-temporal%20Texture%20Modelling%20for%20Real-time%20Crowd%20Anomaly%20Detection.pdf ]
 
+- TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [ https://arxiv.org/pdf/1801.05746.pdf ]
+
+- V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation [ https://arxiv.org/pdf/1606.04797.pdf ]
+
+-U-Net: Convolutional Networks for Biomedical Image Segmentation [ https://arxiv.org/pdf/1505.04597.pdf ]
+
+
 
 ## 3. Reinforcement Learning:
 
