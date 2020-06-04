@@ -139,6 +139,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection [ https://github.com/AlexeyAB/darknet ]
 
+- Two-Stream Convolutional Networks for Action Recognition in Videos(SpatioTemporal learning) [ https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf ]
+
 
 ## 3. Reinforcement Learning:
 
