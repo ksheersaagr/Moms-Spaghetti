@@ -172,13 +172,15 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Behaviour Suite for Reinforcement Learning [ https://arxiv.org/pdf/1908.03568v3.pdf ]
 
 
-## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias
+## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability 
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
 
 - A Principled Approach to Learning Stochastic Representations for Privacy in Deep Neural Inference [ https://arxiv.org/pdf/2003.12154v1.pdf ]
 
 - SHREDDER: Learning Noise Distributions to Protect Inference Privacy [ https://arxiv.org/pdf/1905.11814.pdf ]
+
+- All Things Data, AI & Ethics [ https://docs.google.com/document/d/e/2PACX-1vS5uiipUvpthiMUp6x09VJ93QiBN1tQYKWZUxwXLCsbYVp8yNIgCBnJd9vbP91KzrIuXStONkb0a429/pub ]
 
 ## 5. End to End ML
 
