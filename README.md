@@ -154,6 +154,16 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [ https://arxiv.org/pdf/1506.01497.pdf ]
 
 
+### - Visual Perception:
+
+- Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
+
+- Neural mechanisms of rapid natural scene categorization in human visual cortex [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2752739/ ]
+
+- To err is human: correlating fMRI decoding and behavioral errors to probe the neural representation	of natural scene categories	[ https://bwlab.utoronto.ca/wp-content/uploads/2014/10/walther_etal_visualpopulationcodes2012_withfigures.pdf ]
+
+- Visual Noise from Natural	Scene	Statistics Reveals Human Scene Category Representations [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5331.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
