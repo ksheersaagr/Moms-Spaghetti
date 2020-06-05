@@ -184,6 +184,9 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Approaches for Explainability of AIEnabled Systems in Medical Imaging [ https://ncats.nih.gov/files/2_Sahiner_Berkman_Explainability_v1.pdf ]
 
+- “Why Should I Trust You?” Explaining the Predictions of Any Classifier [ https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf ]
+
+
 ## 5. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
