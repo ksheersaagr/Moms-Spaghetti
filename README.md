@@ -166,6 +166,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - VISUAL SCENE PERCEPTION IN THE HUMAN BRAIN: CONNECTIONS TO MEMORY, CATEGORIZATION, AND SOCIAL COGNITION [ http://vision.stanford.edu/documents/Baldassano_PhD_thesis_2015.pdf ]
 
+- How (and why) the visual control of action differs from visual perception [ https://royalsocietypublishing.org/doi/10.1098/rspb.2014.0337 ]
+
 
 ## 3. Reinforcement Learning:
 
