@@ -164,6 +164,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Visual Noise from Natural	Scene	Statistics Reveals Human Scene Category Representations [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5331.pdf ]
 
+- VISUAL SCENE PERCEPTION IN THE HUMAN BRAIN: CONNECTIONS TO MEMORY, CATEGORIZATION, AND SOCIAL COGNITION [ http://vision.stanford.edu/documents/Baldassano_PhD_thesis_2015.pdf ]
+
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
