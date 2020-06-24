@@ -201,6 +201,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - “Why Should I Trust You?” Explaining the Predictions of Any Classifier [ https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf ]
 
+- Explainable deep learning models in medical image analysis [ https://arxiv.org/pdf/2005.13799.pdf ]
+
 
 ## 5. End to End ML
 
