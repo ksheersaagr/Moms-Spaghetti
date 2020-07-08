@@ -153,6 +153,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks [ https://arxiv.org/pdf/1506.01497.pdf ]
 
+- Faster Fourier Transformation by JVDP [ https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/ ]
 
 ### - Visual Perception:
 
@@ -203,6 +204,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Explainable deep learning models in medical image analysis [ https://arxiv.org/pdf/2005.13799.pdf ]
 
+- Interpretable and Differentially Private Predictions [ https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HarderF.3435.pdf ] 
+
 
 ## 5. End to End ML
 
@@ -213,6 +216,19 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Implementing Graph Neural Networks with JAX [ http://gcucurull.github.io/deep-learning/2020/04/20/jax-graph-neural-networks/ ]
 
 - GRAPH CONVOLUTIONAL NETWORKS [ https://tkipf.github.io/graph-convolutional-networks/ ]
+
+- You don't know Jax [ https://colinraffel.com/blog/you-don-t-know-jax.html ]
+
+- The fastest 2D convolution in the world [ https://laurentperrinet.github.io/sciblog/posts/2017-09-20-the-fastest-2d-convolution-in-the-world.html# ]
+
+- A guide to convolution arithmetic for deep learning [ https://arxiv.org/pdf/1603.07285.pdf ]
+
+- Jax Incoming!! [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/05/17/ConvolutedStuff.html#Winograd:-The-Final-Frontier ]
+
+- JAX strikes back, more puppies and a deeper look into Winograd [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
+
+- Brandon Rohrer's E2EML 321. Convolution in One Dimension for Neural Networks [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
+
 
 ## 6. The Million Dollar Question!
 
