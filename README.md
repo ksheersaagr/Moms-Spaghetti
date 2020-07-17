@@ -229,6 +229,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Brandon Rohrer's E2EML 321. Convolution in One Dimension for Neural Networks [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
 
+- A Comprehensive Survey on Graph Neural Networks [ https://arxiv.org/pdf/1901.00596.pdf ]
+
 
 ## 6. The Million Dollar Question!
 
