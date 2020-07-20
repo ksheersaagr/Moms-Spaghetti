@@ -221,6 +221,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Interpretable and Differentially Private Predictions [ https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HarderF.3435.pdf ] 
 
+- Explainability Methods for Graph Convolutional Neural Networks [ https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf ]
+
 
 ## 5. End to End ML
 
@@ -245,6 +247,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Brandon Rohrer's E2EML 321. Convolution in One Dimension for Neural Networks [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
 
 - A Comprehensive Survey on Graph Neural Networks [ https://arxiv.org/pdf/1901.00596.pdf ]
+
+- Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification [ https://openreview.net/pdf?id=EKu4FU5s4 ]
 
 
 ## 6. The Million Dollar Question!
