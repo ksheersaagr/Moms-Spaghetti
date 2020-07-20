@@ -169,6 +169,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - How (and why) the visual control of action differs from visual perception [ https://royalsocietypublishing.org/doi/10.1098/rspb.2014.0337 ]
 
+- How does the brain solve visual object recognition? [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3306444/pdf/nihms352068.pdf ]
+
+- SENSE AND THE SINGLE NEURON: Probing the Physiology of Perception [ https://www.annualreviews.org/doi/10.1146/annurev.neuro.21.1.227 ]
 
 ## 3. Reinforcement Learning:
 
