@@ -177,6 +177,14 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Backpropagation and the brain: Reddit Comments section [ https://www.reddit.com/r/MachineLearning/comments/g3gvfm/r_backpropagation_and_the_brain/ ]
 
+- Brain Scans Show Why Our Mind's Eye Sees The World So Differently to Everyday Vision [ https://www.sciencealert.com/here-s-why-our-mind-s-eye-sees-the-world-so-differently-to-everyday-vision ]
+
+- Studies of brain activity aren't as useful as scientists thought [ https://medicalxpress.com/news/2020-06-brain-scientists-thought.html ]
+
+- The rise and fall of MRI studies in major depressive disorder [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6901449/pdf/41398_2019_Article_680.pdf ]
+
+- All that glitters is not BOLD: inconsistencies in functional MRI [ https://www.nature.com/articles/srep03920.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
