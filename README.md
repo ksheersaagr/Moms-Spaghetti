@@ -185,6 +185,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - All that glitters is not BOLD: inconsistencies in functional MRI [ https://www.nature.com/articles/srep03920.pdf ]
 
+- Scene Perception in the Human Brain [ https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Epstein%20and%20Baker%202019.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
