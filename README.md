@@ -250,6 +250,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Fusing Structural and Functional MRIs using Graph Convolutional Networks for Autism Classification [ https://openreview.net/pdf?id=EKu4FU5s4 ]
 
+- An overview of gradient descent optimization algorithms(Which optimizer shall I use?) [ https://ruder.io/optimizing-gradient-descent/ ]
+
 
 ## 6. The Million Dollar Question!
 
