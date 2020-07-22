@@ -187,6 +187,34 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Scene Perception in the Human Brain [ https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Epstein%20and%20Baker%202019.pdf ]
 
+- Anterior hippocampus: the anatomy of perception, imagination and episodic memory [ https://sci-hub.tw/https://www.nature.com/articles/nrn.2015.24 ]
+
+- Using a model of human visual perception to improve deep learning [ https://sci-hub.tw/https://www.sciencedirect.com/science/article/abs/pii/S0893608018301254 ]
+
+- Deep Neural Networks for Modeling Visual Perceptual Learning [ https://www.jneurosci.org/content/jneuro/38/27/6028.full.pdf ]
+
+- Adapting deep neural networks as models of human visual perception Phd Thesis [ https://pdfs.semanticscholar.org/8dee/494d0ee3f2d123583929069f68c47e1ea3b5.pdf ]
+
+- Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future [ https://arxiv.org/ftp/arxiv/papers/2001/2001.07092.pdf ]
+
+- Visual Perceptual Learning and Models [ https://sci-hub.tw/https://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-102016-061249 ]
+
+- Visual Perception with Deep Learning by Yann LeCun [ https://cs.nyu.edu/~yann/talks/lecun-20080409-google.pdf ]
+
+- Perceptual Dominance in Brief Presentations of Mixed Images: Human Perception vs. Deep Neural Networks [ https://www.frontiersin.org/articles/10.3389/fncom.2018.00057/full ]
+
+- Coding of navigational affordances in the human visual system [ https://sci-hub.tw/https://www.pnas.org/content/114/18/4793#:~:text=A%20central%20component%20of%20spatial,affordances%20of%20the%20local%20scene. ] 
+
+- From spatial navigation via visual construction to episodic memory and imagination [ https://link.springer.com/content/pdf/10.1007/s00422-020-00829-7.pdf ]
+
+- O'Reilly Chapter 4. Perception, Cognition, and Affordance [ https://www.oreilly.com/library/view/understanding-context/9781449326531/ch04.html ]
+
+- Affordances in psychology, neuroscience and robotics: a survey [ https://www.cmpe.boun.edu.tr/~emre/papers/TCDS2016-Affordances.pdf ]
+
+- Affordances and neuroscience: Steps towards a successful marriage [ https://sci-hub.tw/https://doi.org/10.1016/j.neubiorev.2017.07.008 ]
+
+- Affordance - ScholarlyCommons - University of Pennsylvania [ https://repository.upenn.edu/cgi/viewcontent.cgi?article=1682&context=ese_papers ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
