@@ -217,6 +217,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Models of visual cortex [ http://www.scholarpedia.org/article/Models_of_visual_cortex ]
 
+- NYU library [ https://www.cns.nyu.edu/heegerlab/?page=research ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
