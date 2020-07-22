@@ -215,6 +215,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Affordance - ScholarlyCommons - University of Pennsylvania [ https://repository.upenn.edu/cgi/viewcontent.cgi?article=1682&context=ese_papers ]
 
+- Models of visual cortex [ http://www.scholarpedia.org/article/Models_of_visual_cortex ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
