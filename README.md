@@ -221,6 +221,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Interpretable Visual Models for Human Perception-Based Object Retrieval [ https://sci-hub.tw/https://doi.org/10.1145/1991996.1992017 ]
 
+- Decision-theoretic models of visual perception and action [ https://sci-hub.tw/https://doi.org/10.1016/j.visres.2010.09.031 ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
