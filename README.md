@@ -219,6 +219,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - NYU library [ https://www.cns.nyu.edu/heegerlab/?page=research ]
 
+- Interpretable Visual Models for Human Perception-Based Object Retrieval [ https://sci-hub.tw/https://doi.org/10.1145/1991996.1992017 ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
@@ -259,6 +261,11 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - The Building Blocks of Interpretability [ https://distill.pub/2018/building-blocks/ ]
 
+- GNNExplainer: Generating Explanations for Graph Neural Networks [ https://arxiv.org/pdf/1903.03894.pdf ]
+
+- BrainGNN: Interpretable Brain Graph Neural Network for fMRI Analysis∗ [ https://www.biorxiv.org/content/10.1101/2020.05.16.100057v1.full.pdf ]
+
+- CVPR 2020 Tutorial on Interpretable Machine Learning for Computer Vision [ https://interpretablevision.github.io/ ]
 
 ## 5. End to End ML
 
