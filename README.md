@@ -269,6 +269,10 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - CVPR 2020 Tutorial on Interpretable Machine Learning for Computer Vision [ https://interpretablevision.github.io/ ]
 
+- Breaking the interpretability barrier - a method for interpreting deep graph convolutional models [ http://www.di.uniba.it/~loglisci/NFMCP2019/NFMCP/nfMCP2019_paper_17.pdf ]
+
+- GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks [ https://arxiv.org/pdf/2001.06216.pdf ]
+
 ## 5. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
