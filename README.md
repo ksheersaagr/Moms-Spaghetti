@@ -288,6 +288,7 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - An overview of gradient descent optimization algorithms(Which optimizer shall I use?) [ https://ruder.io/optimizing-gradient-descent/ ]
 
+- Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs [ https://arxiv.org/pdf/1812.00279.pdf ]
 
 ## 6. The Million Dollar Question!
 
