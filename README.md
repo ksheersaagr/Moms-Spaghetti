@@ -223,6 +223,80 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Decision-theoretic models of visual perception and action [ https://sci-hub.tw/https://doi.org/10.1016/j.visres.2010.09.031 ]
 
+- 2019 Conference on Cognitive Computational Neuroscience [ https://ccneuro.org/2019/Papers/AcceptedPapers.asp ]
+
+- Dark, Beyond Deep: A Paradigm Shift to Cognitive AI with Humanlike Common Sense [ https://arxiv.org/pdf/2004.09044.pdf ]
+
+- Towards an integration of deep learning and neuroscience [ https://arxiv.org/pdf/1606.03813.pdf ]
+
+- An overview of deep learning in medical imaging focusing on MRI [ https://arxiv.org/pdf/1811.10052.pdf ]
+
+- Interpreting encoding and decoding models [ https://arxiv.org/ftp/arxiv/papers/1812/1812.00278.pdf ]
+
+- 42nd European Conference on Visual Perception (ECVP) [ https://journals.sagepub.com/doi/pdf/10.1177/0301006619863862 ]
+
+- Neural Representations for Object Perception: Structure, Category, and Adaptive Coding [ https://www.abg.psychol.cam.ac.uk/system/files/documents/kourtziconnor2011.pdf ]
+
+- General Transformations of Object Representations in Human Visual Cortex [ https://www.jneurosci.org/content/jneuro/38/40/8526.full.pdf ]
+
+- The relative contributions of visual and semantic information in the neural representation of object categories [ https://onlinelibrary.wiley.com/doi/epdf/10.1002/brb3.1373 ]
+
+- Selective Neural Representation of Objects Relevant for Navigation [ http://graphics.cs.cmu.edu/courses/16-899A/2014_spring/thevisualworld/19.pdf ]
+
+- Hierarchical Neural Representation of Dreamed Objects Revealed by Brain Decoding with Deep Neural Network Features [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5281549/pdf/fncom-11-00004.pdf ]
+
+- Dynamic representation of partially occluded objects in primate prefrontal and visual cortex [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605274/pdf/elife-25784.pdf ]
+
+- The Neural Representation of Multiple Objects in the Primate Visual System [ https://www.jneurosci.org/content/jneuro/35/37/12612.full.pdf ]
+
+- Neural representation of visual concepts in people born blind [ https://www.nature.com/articles/s41467-018-07574-3.pdf ]
+
+- Recent advances in understanding object recognition in the human brain: deep neural networks, temporal dynamics, and context [ https://f1000researchdata.s3.amazonaws.com/manuscripts/24595/89bfaabc-f2da-415b-819a-439654871e0e_22296_-_susan_wardle.pdf?doi=10.12688/f1000research.22296.1&numberOfBrowsableCollections=24&numberOfBrowsableInstitutionalCollections=5&numberOfBrowsableGateways=24 ]
+
+- Interaction between Scene and Object Processing Revealed by Human fMRI and MEG Decoding [ https://www.jneurosci.org/content/jneuro/37/32/7700.full.pdf ]
+
+- Visual Shape and Object Perception [ http://depts.washington.edu/shapelab/research/journals/Review2018.pdf ]
+
+- Computation of Object Size in Visual Cortical Area V4 as a Neural Basis for Size Constancy [ https://www.jneurosci.org/content/jneuro/35/34/12033.full.pdf ]
+
+- The Neural Basis of Individual Face and Object Perception [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4771946/pdf/fnhum-10-00066.pdf ]
+
+- The neural basis of object perception [ https://sci-hub.tw/https://doi.org/10.1016/S0959-4388(03)00040-0 ]
+
+- The Representation of Object Concepts in the Brain [ http://ling.umd.edu/~ellenlau/courses/ling646/Martin_2007.pdf ]
+
+- Invariant Recognition Shapes Neural Representations of Visual Input [ http://cbmm.mit.edu/sites/default/files/publications/annurev-vision-091517-034103.pdf ]
+
+- Dynamic updating of hippocampal object representations reflects new conceptual knowledge [ https://www.pnas.org/content/pnas/113/46/13203.full.pdf ]
+
+- Deep image reconstruction from human brain activity [ https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006633&type=printable ]
+
+- End-to-end deep image reconstruction from human brain activity [ https://www.biorxiv.org/content/10.1101/272518v1.full.pdf ]
+
+- From the human visual system to the computational models of visual attention: a survey [ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.309.3859&rep=rep1&type=pdf ]
+
+- Computational Models of Object Recognition in Cortex: A Review [ https://dspace.mit.edu/bitstream/handle/1721.1/7231/AIM-1695.pdf?sequence=2 ]
+
+- A quantitative theory of immediate visual recognition [ http://cbcl.mit.edu/publications/ps/Serre_etal_PBR07_wfig.pdf ]
+
+- Decoding Images in the Mind’s Eye: The Temporal Dynamics of Visual Imagery [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6969936/pdf/vision-03-00053.pdf ]
+
+- Spatial and temporal dynamics of presaccadic attentional facilitation before pro- and antisaccades [ https://sci-hub.tw/10.1167/18.11.2 ]
+
+- Differential temporal dynamics during visual imagery and perception [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5973830/pdf/elife-33904.pdf ]
+
+- Temporal Dynamics of Neural Adaptation Effect in the Human Visual Ventral Stream [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6729535/pdf/0246283.pdf ]
+
+- Spatio-temporal dynamics of face perception [ https://sci-hub.tw/https://doi.org/10.1016/j.neuroimage.2020.116531 ]
+
+- Temporal dynamics of binocular integration in primary visual cortex [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6797477/pdf/i1534-7362-19-12-13.pdf ]
+
+- Deep Neural Networks predict Hierarchical Spatio-temporal Cortical Dynamics of Human Visual Object Recognition [ https://people.csail.mit.edu/khosla/papers/arxiv_Cichy.pdf ]
+
+- Visual Field Maps in Human Cortex [ https://www.cell.com/action/showPdf?pii=S0896-6273%2807%2900774-X ]
+
+- Eccentricity mapping of the human visual cortex to evaluate temporal dynamics of functional T1ρ mapping [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640285/pdf/jcbfm201594a.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
@@ -239,7 +313,6 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - GRAPH CONVOLUTIONAL REINFORCEMENT LEARNING [ https://arxiv.org/pdf/1810.09202v5.pdf ]
 
 - Behaviour Suite for Reinforcement Learning [ https://arxiv.org/pdf/1908.03568v3.pdf ]
-
 
 ## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability 
 
@@ -302,6 +375,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - An overview of gradient descent optimization algorithms(Which optimizer shall I use?) [ https://ruder.io/optimizing-gradient-descent/ ]
 
 - Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs [ https://arxiv.org/pdf/1812.00279.pdf ]
+
+- Graph Capsule Convolutional Neural Networks [ https://arxiv.org/pdf/1805.08090.pdf ]
 
 ## 6. The Million Dollar Question!
 
