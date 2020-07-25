@@ -311,7 +311,9 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Modelling Peri-Perceptual Brain Processes in a Deep Learning Spiking Neural Network Architecture [ https://www.nature.com/articles/s41598-018-27169-8.pdf / https://www.youtube.com/watch?v=_tWsmhCP7hs ]
 
-- - SLAYER: Spike Layer Error Reassignment in Time (Spiking NN) [ https://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf / https://www.youtube.com/watch?v=wCs2lv3g4A4 / https://www.garrickorchard.com/ https://github.com/bamsumit/slayerpytorch ]
+- SLAYER: Spike Layer Error Reassignment in Time (Spiking NN) [ https://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf / https://www.youtube.com/watch?v=wCs2lv3g4A4 / https://www.garrickorchard.com/ https://github.com/bamsumit/slayerpytorch ]
+
+- Low‑level image statistics in natural scenes infuence perceptual decision‑making [ https://www.nature.com/articles/s41598-020-67661-8.pdf ]
 
 ## 3. Reinforcement Learning:
 
