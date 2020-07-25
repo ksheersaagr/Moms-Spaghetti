@@ -155,6 +155,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Faster Fourier Transformation by JVDP [ https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/ ]
 
+- BUNET: Blind Medical Image Segmentation Based on Secure UNET [ https://arxiv.org/pdf/2007.06855v1.pdf ]
+
 ### - Visual Perception:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -345,6 +347,16 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Breaking the interpretability barrier - a method for interpreting deep graph convolutional models [ http://www.di.uniba.it/~loglisci/NFMCP2019/NFMCP/nfMCP2019_paper_17.pdf ]
 
 - GraphLIME: Local Interpretable Model Explanations for Graph Neural Networks [ https://arxiv.org/pdf/2001.06216.pdf ]
+
+- ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition [ https://arxiv.org/pdf/2003.05328v1.pdf ]
+
+- Is Spiking Secure? A Comparative Study on the Security Vulnerabilities of Spiking and Deep Neural Networks [ https://arxiv.org/pdf/1902.01147v2.pdf ]
+
+- Secure Byzantine-Robust Machine Learning [ https://arxiv.org/pdf/2006.04747v1.pdf ]
+
+- BYZANTINE-RESILIENT SECURE FEDERATED LEARNING [ https://arxiv.org/pdf/2007.11115v1.pdf ]
+
+- Secure and Differentially Private Bayesian Learning on Distributed Data [ https://arxiv.org/pdf/2005.11007v1.pdf ]
 
 ## 5. End to End ML
 
