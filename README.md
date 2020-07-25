@@ -157,6 +157,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - BUNET: Blind Medical Image Segmentation Based on Secure UNET [ https://arxiv.org/pdf/2007.06855v1.pdf ]
 
+- A Biologically Inspired Spiking Model of Visual Processing for Image Feature Detection [ http://irep.ntu.ac.uk/id/eprint/15302/1/2409_McGinnity.pdf ]
+
 ### - Visual Perception:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -298,6 +300,18 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Visual Field Maps in Human Cortex [ https://www.cell.com/action/showPdf?pii=S0896-6273%2807%2900774-X ]
 
 - Eccentricity mapping of the human visual cortex to evaluate temporal dynamics of functional T1ρ mapping [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4640285/pdf/jcbfm201594a.pdf ]
+
+- Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation [ https://arxiv.org/pdf/1807.10936.pdf / https://github.com/tudelft/cuSNN / https://www.youtube.com/watch?v=FJrba02kZII ]
+
+- Stochastic Resonance Based Visual Perception Using Spiking Neural Networks [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7242793/pdf/fncom-14-00024.pdf ]
+
+- A spiking neural network model of 3D perception for event-based neuromorphic stereo vision systems [ https://www.nature.com/articles/srep40703.pdf ]
+
+- A Spiking Neural Network Model of Depth from Defocus for Eventbased Neuromorphic Vision [ https://www.nature.com/articles/s41598-019-40064-0.pdf ]
+
+- Modelling Peri-Perceptual Brain Processes in a Deep Learning Spiking Neural Network Architecture [ https://www.nature.com/articles/s41598-018-27169-8.pdf / https://www.youtube.com/watch?v=_tWsmhCP7hs ]
+
+- - SLAYER: Spike Layer Error Reassignment in Time (Spiking NN) [ https://papers.nips.cc/paper/7415-slayer-spike-layer-error-reassignment-in-time.pdf / https://www.youtube.com/watch?v=wCs2lv3g4A4 / https://www.garrickorchard.com/ https://github.com/bamsumit/slayerpytorch ]
 
 ## 3. Reinforcement Learning:
 
