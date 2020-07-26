@@ -315,6 +315,22 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Low‑level image statistics in natural scenes infuence perceptual decision‑making [ https://www.nature.com/articles/s41598-020-67661-8.pdf ]
 
+- Why the Brain Never Processes the Same Input in the Same Way [ https://neurosciencenews.com/brain-input-processing-16699/ ]
+
+- Temporal signatures of criticality in human cortical excitability as probed by early somatosensory responses [ https://sci-hub.tw/10.1523/JNEUROSCI.0241-20.2020 ]
+
+- Brain Areas Active during Visual Perception of Biological Motion [ https://www.cell.com/neuron/pdf/S0896-6273(02)00897-8.pdf ]
+
+- Neural Activity Patterns in the Human Brain Reflect Tactile Stickiness Perception [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5595153/pdf/fnhum-11-00445.pdf ]
+
+- Using fMRI Brain Activation to Identify Cognitive States Associated with Perception of Tools and Dwellings [ https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0001394&type=printable ]
+
+- Perceptual similarity of visual patterns predicts dynamic neural activation patterns measured with MEG [ https://sci-hub.tw/https://doi.org/10.1016/j.neuroimage.2016.02.019 ]
+
+- Instance-level contrastive learning yields human brain-like representation without category-supervision [ https://www.biorxiv.org/content/10.1101/2020.06.15.153247v1.full.pdf ]
+
+- Learning Perceptual Inference by Contrasting [ https://arxiv.org/pdf/1912.00086.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
