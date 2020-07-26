@@ -331,6 +331,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Learning Perceptual Inference by Contrasting [ https://arxiv.org/pdf/1912.00086.pdf ]
 
+- Making Sense of Real-World Scenes [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125545/pdf/nihms822642.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
