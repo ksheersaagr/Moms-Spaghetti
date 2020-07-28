@@ -354,7 +354,7 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Behaviour Suite for Reinforcement Learning [ https://arxiv.org/pdf/1908.03568v3.pdf ]
 
-## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability 
+## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
 
@@ -399,6 +399,22 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models [ http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf ]
 
 - Privacy in Deep Learning: A Survey [ https://arxiv.org/pdf/2004.12254v4.pdf ]
+
+- Decentralized Federated Learning: A Segmented Gossip Approach [ https://arxiv.org/pdf/1908.07782.pdf ]
+
+- Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication [ http://proceedings.mlr.press/v97/koloskova19a/koloskova19a.pdf ]
+
+- Gossip Learning: Off the Beaten Path [ https://people.kth.se/~sarunasg/Papers/Giaretta2019GossipLearning.pdf ]
+
+- Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints [ http://iphome.hhi.de/samek/pdf/SatArXiv19.pdf ]
+
+- Gossip training for deep learning [ https://arxiv.org/pdf/1611.09726.pdf ]
+
+- Edge Cloud as an Enabler for Distributed AI in Industrial IoT Applications: the Experience of the IoTwins Project* [ http://ceur-ws.org/Vol-2502/invited1.pdf ]
+
+- GossipGraD: Scalable Deep Learning using Gossip Communication based Asynchronous Gradient Descent [ https://arxiv.org/pdf/1803.05880.pdf ]
+
+- Gossip Learning as a Decentralized Alternative to Federated Learning⋆ [ http://publicatio.bibl.u-szeged.hu/15824/1/dais19a.pdf ]
 
 ## 5. End to End ML
 
