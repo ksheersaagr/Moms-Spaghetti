@@ -159,6 +159,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - A Biologically Inspired Spiking Model of Visual Processing for Image Feature Detection [ http://irep.ntu.ac.uk/id/eprint/15302/1/2409_McGinnity.pdf ]
 
+- Convolutional Spiking Neural Networks for Spatio-Temporal Feature Extraction [ https://arxiv.org/pdf/2003.12346v1.pdf ]
+
+- On the Use of AI for Satellite Communications [ https://arxiv.org/ftp/arxiv/papers/2007/2007.10110.pdf ]
+
 ### - Visual Perception:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -391,6 +395,10 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - BYZANTINE-RESILIENT SECURE FEDERATED LEARNING [ https://arxiv.org/pdf/2007.11115v1.pdf ]
 
 - Secure and Differentially Private Bayesian Learning on Distributed Data [ https://arxiv.org/pdf/2005.11007v1.pdf ]
+
+- Fawkes: Protecting Personal Privacy against Unauthorized Deep Learning Models [ http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf ]
+
+- Privacy in Deep Learning: A Survey [ https://arxiv.org/pdf/2004.12254v4.pdf ]
 
 ## 5. End to End ML
 
