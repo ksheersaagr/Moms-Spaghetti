@@ -163,6 +163,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - On the Use of AI for Satellite Communications [ https://arxiv.org/ftp/arxiv/papers/2007/2007.10110.pdf ]
 
+- Learning to See Through Obstructions [ https://alex04072000.github.io/ObstructionRemoval/ / https://www.youtube.com/watch?v=ICr6xi9wA94&t=71s ]
+
+- 3D Photography using Context-aware Layered Depth Inpainting [ https://shihmengli.github.io/3D-Photo-Inpainting/ / https://youtu.be/MrIbQ0pIFOg ]
+
 ### - Visual Perception:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -336,6 +340,13 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Learning Perceptual Inference by Contrasting [ https://arxiv.org/pdf/1912.00086.pdf ]
 
 - Making Sense of Real-World Scenes [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125545/pdf/nihms822642.pdf ]
+
+
+### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
+
+- Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html / https://www.youtube.com/watch?v=oHLR287rDRA / https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
+
+- Unifying Points, Beams, and Paths in Volumetric Light Transport Simulation [ https://cs.dartmouth.edu/~wjarosz/publications/krivanek14upbp.pdf / https://www.youtube.com/watch?v=TbWQ4lMnLNw ]
 
 ## 3. Reinforcement Learning:
 
