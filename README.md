@@ -167,7 +167,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - 3D Photography using Context-aware Layered Depth Inpainting [ https://shihmengli.github.io/3D-Photo-Inpainting/ / https://youtu.be/MrIbQ0pIFOg ]
 
-### - Visual Perception:
+### - Visual Perception | BCI |:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
 
@@ -341,12 +341,23 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Making Sense of Real-World Scenes [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5125545/pdf/nihms822642.pdf ]
 
+- Visual perception affected by motivation and alertness controlled by a noninvasive braincomputer interface [ https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0188700&type=printable ]
+
+- Improving decision-making based on visual perception via a collaborative brain-computer interface [ https://sci-hub.st/https://doi.org/10.1109/CogSIMA.2013.6523816 ]
+
+- Brain Machine Interfaces for Vision Restoration: The Current State of Cortical Visual Prosthetics [ https://link.springer.com/content/pdf/10.1007/s13311-018-0660-1.pdf ]
+
+- Effects of Visual Attention on Tactile P300 BCI [ http://downloads.hindawi.com/journals/cin/2020/6549189.pdf ]
+
+- Classification of Visual Perception and Imagery based EEG Signals Using Convolutional Neural Networks [ https://arxiv.org/ftp/arxiv/papers/2005/2005.08842.pdf ]
 
 ### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
 
 - Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html / https://www.youtube.com/watch?v=oHLR287rDRA / https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
 
 - Unifying Points, Beams, and Paths in Volumetric Light Transport Simulation [ https://cs.dartmouth.edu/~wjarosz/publications/krivanek14upbp.pdf / https://www.youtube.com/watch?v=TbWQ4lMnLNw ]
+
+- An Explanatory Analysis of the Geometry of Latent Variables Learned by Variational Auto-Encoders [ http://bayesiandeeplearning.org/2017/papers/76.pdf ]
 
 ## 3. Reinforcement Learning:
 
@@ -427,6 +438,10 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Gossip Learning as a Decentralized Alternative to Federated Learning⋆ [ http://publicatio.bibl.u-szeged.hu/15824/1/dais19a.pdf ]
 
+- Secure and Robust Machine Learning for Healthcare: A Survey [ https://arxiv.org/pdf/2001.08103.pdf ]
+
+- AI models need to be ‘interpretable’ rather than just ‘explainable’ [ https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/ / https://www.youtube.com/watch?v=I0yrJz8uc5Q ]
+
 ## 5. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
@@ -463,3 +478,6 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
 
+## FootNote: Having problem accessing papers?
+
+- Visit https://sci-hub.now.sh/ and follow the instructions.
