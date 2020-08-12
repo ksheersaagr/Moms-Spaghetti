@@ -359,6 +359,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - An Explanatory Analysis of the Geometry of Latent Variables Learned by Variational Auto-Encoders [ http://bayesiandeeplearning.org/2017/papers/76.pdf ]
 
+- MATHEMATICAL METHODS IN MEDICAL IMAGE PROCESSING [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3640423/pdf/nihms-462128.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
@@ -392,7 +394,7 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Explainable deep learning models in medical image analysis [ https://arxiv.org/pdf/2005.13799.pdf ]
 
-- Interpretable and Differentially Private Predictions [ https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HarderF.3435.pdf ] 
+- Interpretable and Differentially Private Predictions [ https://arxiv.org/pdf/1906.02004.pdf ] 
 
 - Explainability Methods for Graph Convolutional Neural Networks [ https://openaccess.thecvf.com/content_CVPR_2019/papers/Pope_Explainability_Methods_for_Graph_Convolutional_Neural_Networks_CVPR_2019_paper.pdf ]
 
@@ -441,6 +443,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Secure and Robust Machine Learning for Healthcare: A Survey [ https://arxiv.org/pdf/2001.08103.pdf ]
 
 - AI models need to be ‘interpretable’ rather than just ‘explainable’ [ https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/ / https://www.youtube.com/watch?v=I0yrJz8uc5Q ]
+
+- SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation [ https://arxiv.org/pdf/2001.07645v1.pdf ]
 
 ## 5. End to End ML
 
