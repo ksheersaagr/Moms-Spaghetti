@@ -167,6 +167,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - 3D Photography using Context-aware Layered Depth Inpainting [ https://shihmengli.github.io/3D-Photo-Inpainting/ / https://youtu.be/MrIbQ0pIFOg ]
 
+- TecoGAN: Super Resolution Extraordinaire! [ https://www.youtube.com/watch?v=MwCgvYtOLS0 ] / [ https://arxiv.org/pdf/1811.09393.pdf ] / [ https://ge.in.tum.de/publications/2019-tecogan-chu/ ]
+
 ### - Visual Perception | BCI |:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -353,13 +355,19 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 ### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
 
-- Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html / https://www.youtube.com/watch?v=oHLR287rDRA / https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
+- Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html ] / [ https://www.youtube.com/watch?v=oHLR287rDRA ] / [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
 
 - Unifying Points, Beams, and Paths in Volumetric Light Transport Simulation [ https://cs.dartmouth.edu/~wjarosz/publications/krivanek14upbp.pdf / https://www.youtube.com/watch?v=TbWQ4lMnLNw ]
 
 - An Explanatory Analysis of the Geometry of Latent Variables Learned by Variational Auto-Encoders [ http://bayesiandeeplearning.org/2017/papers/76.pdf ]
 
 - MATHEMATICAL METHODS IN MEDICAL IMAGE PROCESSING [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3640423/pdf/nihms-462128.pdf ]
+
+- Codimensional Surface Tension Flow using Moving-Least-Squares Particles [ https://www.youtube.com/watch?v=SxIkQt04WCo ] / [ https://web.stanford.edu/~yxjin/pdf/codim.pdf ]
+
+- AnisoMPM: Animating Anisotropic Damage Mechanics [ https://www.youtube.com/watch?v=fE9BqmJrrW0 ] / [ https://joshuahwolper.com/anisompm ]
+
+- N-Dimensional Rigid Body Dynamics [ https://www.youtube.com/watch?v=nkHL1GNU18M ] / https://marctenbosch.com/ndphysics/
 
 ## 3. Reinforcement Learning:
 
@@ -477,6 +485,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs [ https://arxiv.org/pdf/1812.00279.pdf ]
 
 - Graph Capsule Convolutional Neural Networks [ https://arxiv.org/pdf/1805.08090.pdf ]
+
+- S4NN: temporal backpropagation for spiking neural networks with one spike per neuron [ https://arxiv.org/pdf/1910.09495.pdf ]
 
 ## 6. The Million Dollar Question!
 
