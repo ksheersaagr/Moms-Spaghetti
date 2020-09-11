@@ -369,6 +369,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - N-Dimensional Rigid Body Dynamics [ https://www.youtube.com/watch?v=nkHL1GNU18M ] / https://marctenbosch.com/ndphysics/
 
+- All Things Deep Geometry Learning [ http://geometrylearning.com/ ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
