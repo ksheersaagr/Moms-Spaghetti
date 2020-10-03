@@ -371,6 +371,30 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - All Things Deep Geometry Learning [ http://geometrylearning.com/ ]
 
+- A Geometric View of Neural Networks Using homotopy [ https://sci-hub.st/10.1109/NNSP.1993.471877 ]  
+
+- Neural Networks, Manifolds, and Topology [ http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ ]
+
+- Literature on the differential geometry of neural networks [ https://www.reddit.com/r/MachineLearning/comments/40r676/literature_on_the_differential_geometry_of_neural/ ]
+
+- On advances in differential-geometric approaches for 2D and 3D shape analyses and activity recognition by Anuj Srivastava [ https://sci-hub.st/https://doi.org/10.1016/j.imavis.2012.03.006 ]
+
+- A Literature Review: Geometric Methods and Their Applications in Human-Related Analysis [ https://www.mdpi.com/1424-8220/19/12/2809/pdf-vor ]
+
+- All Things Geometric publication of Anuj Srivastava [ https://ani.stat.fsu.edu/~anuj/publications.php ]
+
+- Anuj Srivastava Google Scholar [ https://scholar.google.com/citations?user=Kj-lB0MAAAAJ&hl=en ]
+
+- Erik J. Bekkers [ https://scholar.google.com/citations?user=yeWrfR4AAAAJ&hl=en ]
+
+- Math Basics Probability and Geometric Distribution [ https://www.youtube.com/channel/UC_STD9JXaOIqIs29uKvrcYQ/videos ]
+
+- Applications of Differential Geometry in Artificial Intelligence [ https://math.stackexchange.com/questions/584551/applications-of-differential-geometry-in-artificial-intelligence ] 
+
+- GEOMETRIC DEEP LEARNING [ http://geometricdeeplearning.com/ ]
+
+- DiffCVML 2020 [ https://diffcvml.org/2020/ ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
