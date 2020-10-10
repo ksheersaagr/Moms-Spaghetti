@@ -187,7 +187,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - SENSE AND THE SINGLE NEURON: Probing the Physiology of Perception [ https://www.annualreviews.org/doi/10.1146/annurev.neuro.21.1.227 ]
 
-- Backpropagation and the brain by Geoffrey Hinton [ https://sci-hub.tw/10.1038/s41583-020-0277-3 ]
+- Backpropagation and the brain by Geoffrey Hinton [ https://sci-hub.tw/10.1038/s41583-020-0277-3 / https://www.youtube.com/watch?v=a0f07M2uj_A ]
 
 - Backpropagation and the brain: Reddit Comments section [ https://www.reddit.com/r/MachineLearning/comments/g3gvfm/r_backpropagation_and_the_brain/ ]
 
