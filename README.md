@@ -520,6 +520,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Demystification of AI-driven medical image interpretation: past, present and future [ https://canvas.stanford.edu/files/3473819/download?download_frd=1 / Generalized AI & Interpretability Table at 27:46 min [ https://youtu.be/Yk_7hm5FCf0 ] Slides [ https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2020/animaanandkumar_techtalk_slides1.pdf ] ]
 
+- The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence by Gary Marcus [ https://arxiv.org/ftp/arxiv/papers/2002/2002.06177.pdf ]
+
 ## 6. The Million Dollar Question!
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
