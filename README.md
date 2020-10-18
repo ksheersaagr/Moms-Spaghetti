@@ -395,6 +395,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - DiffCVML 2020 [ https://diffcvml.org/2020/ ]
 
+- Demystification of AI-driven medical image interpretation: past, present and future [ https://canvas.stanford.edu/files/3473819/download?download_frd=1 ]
+
+- A Differential Geometric Approach to Automated Segmentation of Human Airway Tree [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271357/pdf/nihms351945.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
@@ -479,6 +483,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - AI models need to be ‘interpretable’ rather than just ‘explainable’ [ https://thenextweb.com/neural/2020/08/06/ai-models-need-to-be-interpretable-rather-than-just-explainable/ / https://www.youtube.com/watch?v=I0yrJz8uc5Q ]
 
 - SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation [ https://arxiv.org/pdf/2001.07645v1.pdf ]
+
+- A concise primer on Differential Privacy [ https://github.com/Kritikalcoder/DP-primer/blob/master/DP_Primer.ipynb ]
 
 ## 5. End to End ML
 
