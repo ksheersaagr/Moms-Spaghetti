@@ -518,7 +518,7 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - S4NN: temporal backpropagation for spiking neural networks with one spike per neuron [ https://arxiv.org/pdf/1910.09495.pdf ]
 
-- Demystification of AI-driven medical image interpretation: past, present and future [ https://canvas.stanford.edu/files/3473819/download?download_frd=1 / Generalized AI & Interpretability Table at 27:46 min [ https://youtu.be/Yk_7hm5FCf0 ]]
+- Demystification of AI-driven medical image interpretation: past, present and future [ https://canvas.stanford.edu/files/3473819/download?download_frd=1 / Generalized AI & Interpretability Table at 27:46 min [ https://youtu.be/Yk_7hm5FCf0 ] Slides [ https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2020/animaanandkumar_techtalk_slides1.pdf ] ]
 
 ## 6. The Million Dollar Question!
 
