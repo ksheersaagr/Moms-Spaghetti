@@ -401,6 +401,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Roto-Translation Covariant Convolutional Networks for Medical Image Analysis [ https://arxiv.org/pdf/1804.03393.pdf ]
 
+- Oxford Visual Geometry Group [ https://www.robots.ox.ac.uk/~vgg/research/ ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
