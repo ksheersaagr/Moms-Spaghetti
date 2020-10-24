@@ -397,6 +397,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - A Differential Geometric Approach to Automated Segmentation of Human Airway Tree [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271357/pdf/nihms351945.pdf ]
 
+- Lie Groups for 2D and 3D Transformations [ http://ethaneade.com/lie.pdf ]
+
+- Roto-Translation Covariant Convolutional Networks for Medical Image Analysis [ https://arxiv.org/pdf/1804.03393.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
