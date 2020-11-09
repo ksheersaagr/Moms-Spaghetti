@@ -403,6 +403,12 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Oxford Visual Geometry Group [ https://www.robots.ox.ac.uk/~vgg/research/ ]
 
+- Deep Scale-spaces: Equivariance Over Scale by Max Welling [ https://openreview.net/pdf/162130ec5fbc269e7eacc9c52d86efe6d38396a5.pdf ]
+
+- Rotation Equivariant CNNs for Digital Pathology by Max Welling [ http://basveeling.nl/pdf/gcnn_pcam.pdf ]
+
+- Exploiting Cyclic Symmetry in Convolutional Neural Networks [ https://arxiv.org/pdf/1602.02660.pdf ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
