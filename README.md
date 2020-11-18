@@ -353,6 +353,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Classification of Visual Perception and Imagery based EEG Signals Using Convolutional Neural Networks [ https://arxiv.org/ftp/arxiv/papers/2005/2005.08842.pdf ]
 
+- Computational models of visual attention [ http://www.scholarpedia.org/article/Computational_models_of_visual_attention ]
+
 ### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
 
 - Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html ] / [ https://www.youtube.com/watch?v=oHLR287rDRA ] / [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
