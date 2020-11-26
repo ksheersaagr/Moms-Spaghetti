@@ -411,6 +411,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Exploiting Cyclic Symmetry in Convolutional Neural Networks [ https://arxiv.org/pdf/1602.02660.pdf ]
 
+- Variational autoencoders [ https://www.jeremyjordan.me/variational-autoencoders/ ] / [ https://www.youtube.com/watch?v=9zKuYvjFFS8&vl=en ]
+
 ## 3. Reinforcement Learning:
 
 - Quantum Probability in Operant Conditioning
