@@ -169,6 +169,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - TecoGAN: Super Resolution Extraordinaire! [ https://www.youtube.com/watch?v=MwCgvYtOLS0 ] / [ https://arxiv.org/pdf/1811.09393.pdf ] / [ https://ge.in.tum.de/publications/2019-tecogan-chu/ ]
 
+- ETH Zurich CV and Geometry Group [ http://cvg.ethz.ch/research/ ]
+
 ### - Visual Perception | BCI |:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
@@ -194,6 +196,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Brain Scans Show Why Our Mind's Eye Sees The World So Differently to Everyday Vision [ https://www.sciencealert.com/here-s-why-our-mind-s-eye-sees-the-world-so-differently-to-everyday-vision ]
 
 - Studies of brain activity aren't as useful as scientists thought [ https://medicalxpress.com/news/2020-06-brain-scientists-thought.html ]
+
+- Scientists Now Question Brain Imaging Methods [ https://learningenglish.voanews.com/a/scientists-now-question-brain-imaging-methods/5694850.html ]
+
+- Why the Brain Never Processes the Same Input in the Same Way [ https://neurosciencenews.com/brain-input-processing-16699/ ]
 
 - The rise and fall of MRI studies in major depressive disorder [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6901449/pdf/41398_2019_Article_680.pdf ]
 
@@ -325,8 +331,6 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Low‑level image statistics in natural scenes infuence perceptual decision‑making [ https://www.nature.com/articles/s41598-020-67661-8.pdf ]
 
-- Why the Brain Never Processes the Same Input in the Same Way [ https://neurosciencenews.com/brain-input-processing-16699/ ]
-
 - Temporal signatures of criticality in human cortical excitability as probed by early somatosensory responses [ https://sci-hub.tw/10.1523/JNEUROSCI.0241-20.2020 ]
 
 - Brain Areas Active during Visual Perception of Biological Motion [ https://www.cell.com/neuron/pdf/S0896-6273(02)00897-8.pdf ]
@@ -389,15 +393,23 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Erik J. Bekkers [ https://scholar.google.com/citations?user=yeWrfR4AAAAJ&hl=en ]
 
+- Taco Cohen [ https://tacocohen.wordpress.com/ ] / [ https://scholar.google.com/citations?user=a3q4YxEAAAAJ&hl=en ]
+
 - Math Basics Probability and Geometric Distribution [ https://www.youtube.com/channel/UC_STD9JXaOIqIs29uKvrcYQ/videos ]
 
 - Applications of Differential Geometry in Artificial Intelligence [ https://math.stackexchange.com/questions/584551/applications-of-differential-geometry-in-artificial-intelligence ] 
+
+- How useful is differential geometry and topology to deep learning? [ https://mathoverflow.net/questions/350228/how-useful-is-differential-geometry-and-topology-to-deep-learning ]
 
 - GEOMETRIC DEEP LEARNING [ http://geometricdeeplearning.com/ ]
 
 - DiffCVML 2020 [ https://diffcvml.org/2020/ ]
 
+- Differential Geometry meets Deep Learning NeurIPS 2020 Workshop [ https://sites.google.com/view/diffgeo4dl/ ]
+
 - A Differential Geometric Approach to Automated Segmentation of Human Airway Tree [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3271357/pdf/nihms351945.pdf ]
+
+- Effects of Differential Geometry Parameters on Grid Generation and Segmentation of MRI Brain Image [ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8719974 ]
 
 - Lie Groups for 2D and 3D Transformations [ http://ethaneade.com/lie.pdf ]
 
