@@ -528,9 +528,9 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - A guide to convolution arithmetic for deep learning [ https://arxiv.org/pdf/1603.07285.pdf ]
 
-- Jax Incoming!! [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/05/17/ConvolutedStuff.html#Winograd:-The-Final-Frontier ]
+- Jax Incoming!! [ https://g-k.ai/post/convoluted_stuff_1/ ]
 
-- JAX strikes back, more puppies and a deeper look into Winograd [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
+- JAX strikes back, more puppies and a deeper look into Winograd [ https://g-k.ai/post/convoluted_stuff_2/ ]
 
 - Brandon Rohrer's E2EML 321. Convolution in One Dimension for Neural Networks [ https://gkaissis.github.io/blog/computer%20science/machine%20learning/python/2020/06/05/ConvolutedStuffVol2.html ]
 
@@ -549,6 +549,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 - Demystification of AI-driven medical image interpretation: past, present and future [ https://canvas.stanford.edu/files/3473819/download?download_frd=1 / Generalized AI & Interpretability Table at 27:46 min [ https://youtu.be/Yk_7hm5FCf0 ] Slides [ https://learning.acm.org/binaries/content/assets/leaning-center/webinar-slides/2020/animaanandkumar_techtalk_slides1.pdf ] ]
 
 - The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence by Gary Marcus [ https://arxiv.org/ftp/arxiv/papers/2002/2002.06177.pdf ]
+
+- Lectures and slides for the UvA Master AI course Machine Learning 1 [ https://uvaml1.github.io/ ] / [ https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n ]
 
 ## 6. The Million Dollar Question!
 
