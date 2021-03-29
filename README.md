@@ -395,6 +395,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Taco Cohen [ https://tacocohen.wordpress.com/ ] / [ https://scholar.google.com/citations?user=a3q4YxEAAAAJ&hl=en ]
 
+- Anand Joshi [https://scholar.google.com/citations?user=rgLGzAQAAAAJ&hl=en]
+
 - Math Basics Probability and Geometric Distribution [ https://www.youtube.com/channel/UC_STD9JXaOIqIs29uKvrcYQ/videos ]
 
 - Applications of Differential Geometry in Artificial Intelligence [ https://math.stackexchange.com/questions/584551/applications-of-differential-geometry-in-artificial-intelligence ] 
