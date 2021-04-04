@@ -427,24 +427,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Variational autoencoders [ https://www.jeremyjordan.me/variational-autoencoders/ ] / [ https://www.youtube.com/watch?v=9zKuYvjFFS8&vl=en ]
 
-## 3. Reinforcement Learning:
+- Geometric Foundations of Deep Learning Research [ https://www.reddit.com/r/MachineLearning/comments/m8ewph/geometric_foundations_of_deep_learning_research/ ]
 
-- Quantum Probability in Operant Conditioning
-Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/home/Papers/Alonso_Mondragon_Proc_2014.pdf ]
 
-- My Blog on summary of the research paper [ https://towardsdatascience.com/quantum-probability-in-operant-conditioning-behavioral-uncertainty-in-reinforcement-learning-b7b84b267f4a ]
-
-- Episodic Reinforcement Learning with Associative Memory. [ https://openreview.net/pdf?id=HkxjqxBYDB ]
-
-- Contrastive Learning of Structured World Models. [ https://arxiv.org/pdf/1911.12247.pdf ]
-
-- Federated Transfer Reinforcement Learning for Autonomous Driving [ https://arxiv.org/pdf/1910.06001.pdf ]
-
-- GRAPH CONVOLUTIONAL REINFORCEMENT LEARNING [ https://arxiv.org/pdf/1810.09202v5.pdf ]
-
-- Behaviour Suite for Reinforcement Learning [ https://arxiv.org/pdf/1908.03568v3.pdf ]
-
-## 4. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
+## 3. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
 
@@ -514,7 +500,7 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - A concise primer on Differential Privacy [ https://github.com/Kritikalcoder/DP-primer/blob/master/DP_Primer.ipynb ]
 
-## 5. End to End ML
+## 4. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
 
@@ -556,7 +542,9 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - What’s the simplest, most lightweight but complete and 100% open source MLOps toolkit? [ https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/ ]
 
-## 6. The Million Dollar Question!
+- How to Use Google Colab for Deep Learning – Complete Tutorial [ https://neptune.ai/blog/how-to-use-google-colab-for-deep-learning-complete-tutorial?utm_source=reddit&utm_medium=post&utm_campaign=blog-how-to-use-google-colab-for-deep-learning-complete-tutorial&utm_content=googlecolab ]
+
+## 5. The Million Dollar Question!
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
 
