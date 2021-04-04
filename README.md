@@ -554,6 +554,8 @@ Behavioral Uncertainty in Reinforcement Learning [ https://cal-r.org/mondragon/h
 
 - Lectures and slides for the UvA Master AI course Machine Learning 1 [ https://uvaml1.github.io/ ] / [ https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n ]
 
+- What’s the simplest, most lightweight but complete and 100% open source MLOps toolkit? [ https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/ ]
+
 ## 6. The Million Dollar Question!
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
