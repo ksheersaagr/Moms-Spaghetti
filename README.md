@@ -500,6 +500,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - A concise primer on Differential Privacy [ https://github.com/Kritikalcoder/DP-primer/blob/master/DP_Primer.ipynb ]
 
+- Statistical Inference is Not a Privacy Violation [ https://differentialprivacy.org/inference-is-not-a-privacy-violation/ ]
+
+- DifferentialPrivacy.org [ https://differentialprivacy.org/categories/ ]
+
 ## 4. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
