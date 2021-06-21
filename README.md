@@ -171,7 +171,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - ETH Zurich CV and Geometry Group [ http://cvg.ethz.ch/research/ ]
 
-### - Visual Perception | BCI |:
+### - Brain | Visual Perception | BCI |:
 
 - Affordances	Provide	a	Fundamental	Categorization Principle for Visual Scenes [ https://arxiv.org/ftp/arxiv/papers/1411/1411.5340.pdf ]
 
@@ -358,6 +358,14 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Classification of Visual Perception and Imagery based EEG Signals Using Convolutional Neural Networks [ https://arxiv.org/ftp/arxiv/papers/2005/2005.08842.pdf ]
 
 - Computational models of visual attention [ http://www.scholarpedia.org/article/Computational_models_of_visual_attention ]
+
+- Maps in the head [ https://philosophy.ucla.edu/wp-content/uploads/2016/08/Maps-in-the-Head.pdf ]
+
+- Maps in the head article [ https://aeon.co/essays/how-cognitive-maps-help-animals-navigate-the-world ]
+
+- The “Map in the Head” Metaphor [ https://sci-hub.st/https://doi.org/10.1177/001391658414200 ]
+
+- The cognitive map in humans: Spatial navigation and beyond [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028313/pdf/nihms975780.pdf ]
 
 ### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
 
