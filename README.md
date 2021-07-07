@@ -367,6 +367,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - The cognitive map in humans: Spatial navigation and beyond [ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028313/pdf/nihms975780.pdf ]
 
+- CVPR 2021: An Overview [ https://yassouali.github.io/ml-blog/cvpr2021/ ]
+
 ### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
 
 - Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html ] / [ https://www.youtube.com/watch?v=oHLR287rDRA ] / [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
@@ -437,6 +439,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Geometric Foundations of Deep Learning Research [ https://www.reddit.com/r/MachineLearning/comments/m8ewph/geometric_foundations_of_deep_learning_research/ ]
 
+- Fast end-to-end learning on protein surfaces [ https://www.biorxiv.org/content/10.1101/2020.12.28.424589v1.full.pdf ]
 
 ## 3. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
