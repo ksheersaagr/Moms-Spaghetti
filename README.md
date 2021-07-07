@@ -515,6 +515,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - DifferentialPrivacy.org [ https://differentialprivacy.org/categories/ ]
 
+- The Limits of Differential Privacy (and Its Misuse in Data Release and Machine Learning) [ https://cacm.acm.org/magazines/2021/7/253460-the-limits-of-differential-privacy-and-its-misuse-in-data-release-and-machine-learning/fulltext ]
+
 ## 4. End to End ML
 
 - brohrer's github [ https://e2eml.school/blog.html ]
@@ -558,6 +560,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - What’s the simplest, most lightweight but complete and 100% open source MLOps toolkit? [ https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/ ]
 
 - How to Use Google Colab for Deep Learning – Complete Tutorial [ https://neptune.ai/blog/how-to-use-google-colab-for-deep-learning-complete-tutorial?utm_source=reddit&utm_medium=post&utm_campaign=blog-how-to-use-google-colab-for-deep-learning-complete-tutorial&utm_content=googlecolab ]
+
+- Deep Learning for AI [ https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext ]
 
 ## 5. The Million Dollar Question!
 
