@@ -441,6 +441,12 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Fast end-to-end learning on protein surfaces [ https://www.biorxiv.org/content/10.1101/2020.12.28.424589v1.full.pdf ]
 
+- DeepMind’s AlphaFold2 Predicts Protein Structures with Atomic-Level Accuracy [ https://syncedreview.com/2021/07/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-65/amp/ ]
+
+- Alphafold2 code [ https://github.com/deepmind/alphafold ] / paper [https://www.nature.com/articles/s41586-021-03819-2_reference.pdf]
+
+- Google colab notebooks are already running Deepmind’s AlphaFold v.2 [ https://towardsdatascience.com/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127 ]
+
 ## 3. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
