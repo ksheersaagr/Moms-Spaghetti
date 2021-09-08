@@ -577,6 +577,6 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
 
-## FootNote: Having problem accessing papers?
+## Footnote: Having problem accessing papers?
 
 - Visit https://sci-hub.now.sh/ and follow the instructions.
