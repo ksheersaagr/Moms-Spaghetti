@@ -447,6 +447,8 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Google colab notebooks are already running Deepmind’s AlphaFold v.2 [ https://towardsdatascience.com/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127 ]
 
+- Verbitsky [ http://verbit.ru/ ] / [ https://arxiv.org/find/math/1/au:+Verbitsky_Misha/0/1/0/all,past/0/1?skip=0 ]
+
 ## 3. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
 - GENERATIVE MODELS FOR EFFECTIVE ML ON PRIVATE, DECENTRALIZED DATASETS [ https://arxiv.org/pdf/1911.06679v2.pdf ]
