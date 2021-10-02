@@ -369,7 +369,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - CVPR 2021: An Overview [ https://yassouali.github.io/ml-blog/cvpr2021/ ]
 
-### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility |
+### - Geometric and Probabilistic Modeling & Processing | Variational Autoencoder (VAE) | Partial Differential Equations (PDE) | Equivariance | Invertibility | Causal Inference | Causality | Probabilistic Methods | Robustness | Uncertainty Quantification | Trustworthy AI 
 
 - Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/index.html ] / [ https://www.youtube.com/watch?v=oHLR287rDRA ] / [ https://www.cs.cmu.edu/~kmcrane/Projects/MonteCarloGeometryProcessing/paper.pdf ]
 
@@ -448,6 +448,10 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Google colab notebooks are already running Deepmind’s AlphaFold v.2 [ https://towardsdatascience.com/google-colab-notebooks-are-already-running-deepminds-alphafold-v-2-92b4531ec127 ]
 
 - Verbitsky [ http://verbit.ru/ ] / [ https://arxiv.org/find/math/1/au:+Verbitsky_Misha/0/1/0/all,past/0/1?skip=0 ]
+
+- A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges [ https://arxiv.org/abs/2011.06225 ]
+
+- Probabilistic Causation [ https://plato.stanford.edu/entries/causation-probabilistic/ ]
 
 ## 3. Federated Learning | Differential Privacy | Privacy Preserving | Fairness | Bias | Ethics | Transparency | Interpretability | Explainability | Gossip Learning
 
@@ -528,6 +532,7 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 - Reading Race: AI Recognizes Patient's Racial Identity In Medical Images [ https://arxiv.org/ftp/arxiv/papers/2107/2107.10356.pdf ]<br>
     [ **Big trouble in big medical data:** This is a huge potential issue. As the authors write: "our findings that AI can trivially predict self-reported race -- **_even from corrupted, cropped, and noised medical images_** -- in a setting where clinical experts cannot, creates an enormous risk for all model deployments in medical imaging: if an AI model secretly used its knowledge of self-reported race to misclassify all Black patients, radiologists would not be able to tell using the same data the model has access to."<br>
 "Standard deep learning models can be trained to predict race from medical images with high performance across multiple imaging modalities." They tested out a bunch of models on datasets including chest x-rays, breast mammograms, CT scans (computed tomography), and more and found that models were able to tell different races apart even under degraded image settings. Probably the most inherently challenging finding is that **_"models trained on high-pass filtered images maintained performance well beyond the point that the degraded images contained no recognisable structures; to the human co-authors and radiologists it was not even clear that the image was an x-ray at all,"_** they write. In other words - these ML models are making decisions about racial classification (and doing it accurately) using features that humans can't even observe, let alone analyze.]
+
 
 ## 4. End to End ML
 
