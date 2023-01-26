@@ -580,9 +580,6 @@ Exploring the Applications of Deep Learning [ http://openaccess.thecvf.com/conte
 
 - Deep Learning for AI [ https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext ]
 
-## 5. The Million Dollar Question!
-
-- How to become Research Scientist without PhD? [ https://www.reddit.com/r/MachineLearning/comments/95s9cl/d_research_engineer_vs_research_scientist_in/ ]
 
 ## Footnote: Having problem accessing papers?
 
